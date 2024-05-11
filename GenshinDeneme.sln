@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenshinDeneme", "GenshinDeneme\GenshinDeneme.csproj", "{651A28F7-9410-409A-915B-AA4468DBA827}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{651A28F7-9410-409A-915B-AA4468DBA827}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{651A28F7-9410-409A-915B-AA4468DBA827}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{651A28F7-9410-409A-915B-AA4468DBA827}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{651A28F7-9410-409A-915B-AA4468DBA827}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FF247AA-240E-43A6-8A79-C5F7D52B4FC2}
+	EndGlobalSection
+EndGlobal
